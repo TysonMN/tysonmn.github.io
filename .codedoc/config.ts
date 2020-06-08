@@ -9,7 +9,7 @@ import { theme } from './theme';
 export const config = /*#__PURE__*/configuration({
   theme,
   src: {
-    base: 'posts'
+    base: 'markdown'
   },
   dest: {
     namespace: '',    // --> change this if you want to also deploy to GitHub Pages
