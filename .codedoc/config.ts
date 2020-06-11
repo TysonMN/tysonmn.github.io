@@ -12,7 +12,7 @@ export const config = /*#__PURE__*/configuration({
     base: 'posts'
   },
   dest: {
-    namespace: '/coding-blog-boilerplate',    // --> change this if you want to also deploy to GitHub Pages
+    namespace: '',    // --> change this if you want to also deploy to GitHub Pages
     html: 'dist',
     assets: '.',
     bundle: 'dist/bundle',
