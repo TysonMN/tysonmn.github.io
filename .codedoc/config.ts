@@ -22,7 +22,7 @@ export const config = /*#__PURE__*/configuration({
     title: {
       base: ''
     },
-    favicon: '/favicon.ico'
+    favicon: 'favicon.ico'
   },
   plugins: [
     codingBlog({
