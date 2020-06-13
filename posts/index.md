@@ -7,9 +7,9 @@
 > >
 > > ![banner](/img/cb-banner-dark.svg)
 
-> :Title
+> :Title lead=Blog of
 >
-> Sample Blog
+> Tyson Williams
 
 This is a sample homepage for your [`coding.blog`](https://coding.blog). You can use
 it to showcase your latest / most-important blog posts (or whatever suites your case).
