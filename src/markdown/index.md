@@ -47,8 +47,4 @@ about the tools at your displosal for blogging.
 > :Buttons
 > > :Button label=Plugin Docs, url=https://connect-platform.github.io/coding-blog-plugin/
 
-<br><br>
-
-> :Author src=github
-
 > :ToCPrevNext

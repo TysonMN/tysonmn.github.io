@@ -22,7 +22,9 @@
 >
 > Sample Blog Post
 
-> :Author src=github
+> :Author name=Tyson Williams,
+>         date=Today,
+>         avatar=images/TysonWilliams.jpg
 
 <br>
 
