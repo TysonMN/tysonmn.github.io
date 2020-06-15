@@ -22,7 +22,12 @@ export const config = /*#__PURE__*/configuration({
     title: {
       base: ''
     },
-    favicon: 'favicon.ico'
+    favicon: 'favicon.ico',
+    meta: {
+      subject: 'Blog of Tyson Williams',
+      description: 'Blog by Tyson Williams about software development and functional programming',
+      keywords: ['software', 'development', 'functional', 'programming', 'Tyson', 'Williams'],
+    },
   },
   plugins: [
     codingBlog({
