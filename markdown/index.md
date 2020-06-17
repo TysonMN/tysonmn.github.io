@@ -1,11 +1,11 @@
 > :DarkLight
 > > :InLight
 > >
-> > ![banner](/img/cb-banner.svg)
+> > ![banner](/images/cb-banner.svg)
 >
 > > :InDark
 > >
-> > ![banner](/img/cb-banner-dark.svg)
+> > ![banner](/images/cb-banner-dark.svg)
 
 > :Title lead=Blog of
 >
