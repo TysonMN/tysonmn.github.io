@@ -14,7 +14,7 @@ export const config = /*#__PURE__*/configuration({
   dest: {
     namespace: '',    // --> change this if you want to also deploy to GitHub Pages
     html: 'dist',
-    assets: 'src',
+    assets: 'src/assets',
     bundle: 'bundle',
     styles: 'styles',
   },
@@ -32,8 +32,8 @@ export const config = /*#__PURE__*/configuration({
   plugins: [
     codingBlog({
       assets: [
-        'src/images',
-        'src/favicon.ico',
+        'src/assets/images',
+        'src/assets/favicon.ico',
       ]
     })
   ],
