@@ -32,7 +32,7 @@ export const config = /*#__PURE__*/configuration({
   plugins: [
     codingBlog({
       assets: [
-        'img',
+        'images',
         'favicon.ico',
       ]
     })
