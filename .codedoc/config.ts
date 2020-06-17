@@ -9,14 +9,14 @@ import { theme } from './theme';
 export const config = /*#__PURE__*/configuration({
   theme,
   src: {
-    base: 'markdown'
+    base: 'src/markdown'
   },
   dest: {
     namespace: '',    // --> change this if you want to also deploy to GitHub Pages
     html: 'dist',
-    assets: '.',
-    bundle: 'dist/bundle',
-    styles: 'dist/styles',
+    assets: 'src',
+    bundle: 'bundle',
+    styles: 'styles',
   },
   page: {
     title: {
@@ -32,8 +32,8 @@ export const config = /*#__PURE__*/configuration({
   plugins: [
     codingBlog({
       assets: [
-        'images',
-        'favicon.ico',
+        'src/images',
+        'src/favicon.ico',
       ]
     })
   ],
