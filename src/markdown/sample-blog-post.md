@@ -32,12 +32,3 @@ So this is the content of this sample blog post. For a new blogpost, just copy t
 `posts/sample-blog-post.md` and get started quickly!
 
 ---
-
-> :DarkLight
-> > :InDark
-> >
-> > _Hero image by [Kaitlyn Baker](https://unsplash.com/@kaitlynbaker) from [Unsplash](https://unsplash.com)_
->
-> > :InLight
-> >
-> > _Hero image by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters) from [Unsplash](https://unsplash.com)_
