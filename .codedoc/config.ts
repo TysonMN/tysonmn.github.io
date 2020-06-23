@@ -1,8 +1,11 @@
-
-import { configuration } from '@codedoc/core';
+import { 
+  configuration, 
+  DefaultMarkdownCustomComponents
+} from '@codedoc/core';
 import { codingBlog } from '@codedoc/coding-blog-plugin';
 
 import { theme } from './theme';
+import { Utterances } from './components/utterances';
 
 
 
@@ -37,6 +40,12 @@ export const config = /*#__PURE__*/configuration({
       ]
     })
   ],
+  markdown: {
+    customComponents: {
+      ...DefaultMarkdownCustomComponents,
+      Utterances
+    }
+  },
   misc: {
     github: {
       repo: 'coding-blog-boilerplate',
