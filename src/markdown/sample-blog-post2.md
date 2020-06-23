@@ -20,7 +20,7 @@
 
 > :Title shadow=0 0 8px black, color=white
 >
-> Sample Blog Post
+> Sample Blog Post 2
 
 > :Author name=Tyson Williams,
 >         date=Today,
@@ -35,4 +35,11 @@ So this is the content of this sample blog post. For a new blogpost, just copy t
 
 See a typo? You can fix it by sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/pulls).
 
-> :Utterances theme=github-light
+> :DarkLight
+> > :InLight
+> >
+> > > :Utterances theme=github-light
+>
+> > :InDark
+> >
+> > > :Utterances theme=github-light
