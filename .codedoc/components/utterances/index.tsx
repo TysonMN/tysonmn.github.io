@@ -3,7 +3,7 @@ import { RendererLike } from '@connectv/html';              // @see [CONNECTIVE 
 import { CodedocTheme } from '@codedoc/core';               // --> Type helper for theme object
 
 export interface UtterancesOptions {
-  raise: string;
+  theme: string;
 }
 
 
@@ -12,11 +12,13 @@ export function Utterances(
   options: UtterancesOptions,
   renderer: RendererLike<any, any>,
 ) {
+  let theme = 'github-light';
+  if (options && options.theme && options.theme !== '') theme = options.theme;
   const attributes = {
     'repo': 'bender2k14/tyson-williams-blog',
     'issue-term': 'pathname',
     'label': '💬comments',
-    'theme': 'github-light',
+    'theme': theme,
     'crossorigin': 'anonymous'
   }
   return <script src='https://utteranc.es/client.js'
