@@ -33,7 +33,7 @@ So this is the content of this sample blog post. For a new blogpost, just copy t
 
 ---
 
-See a typo? You can fix it by sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/pulls).
+See a typo? You can fix it by sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
 
 > :DarkLight
 > > :InLight
