@@ -15,7 +15,6 @@ export const config = /*#__PURE__*/configuration({
     base: 'src/markdown'
   },
   dest: {
-    namespace: '',    // --> change this if you want to also deploy to GitHub Pages
     html: 'dist',
     assets: '.', // TODO: want 'src/assets' but blocked by https://github.com/CONNECT-platform/coding-blog/issues/18
     bundle: 'bundle',
