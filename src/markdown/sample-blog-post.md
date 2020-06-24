@@ -44,4 +44,4 @@ See a typo? You can fix it by sending me a [pull request](https://github.com/ben
 >
 > > :InDark
 > >
-> > > :Utterances theme=github-dark
+> > > :Utterances theme=icy-dark
