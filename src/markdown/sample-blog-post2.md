@@ -24,7 +24,7 @@
 
 > :Author name=Tyson Williams,
 >         date=Today,
->         avatar=images/TysonWilliams.jpg
+>         avatar=src/assets/images/TysonWilliams.jpg
 
 <br>
 
