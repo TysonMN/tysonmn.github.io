@@ -1,0 +1,7 @@
+# Install codedoc/cli
+c.f. https://codedoc.cc/docs/cli#cli
+npm i -g @codedoc/cli
+
+# Update local codedoc/core to latest version
+c.f. https://github.com/CONNECT-platform/codedoc/issues/22
+codedoc update latest --local
