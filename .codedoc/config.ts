@@ -17,7 +17,7 @@ export const config = /*#__PURE__*/configuration({
   dest: {
     namespace: '',    // --> change this if you want to also deploy to GitHub Pages
     html: 'dist',
-    assets: 'src/assets',
+    assets: '.', // TODO: want 'src/assets' but blocked by https://github.com/CONNECT-platform/coding-blog/issues/18
     bundle: 'bundle',
     styles: 'styles',
   },
@@ -25,7 +25,7 @@ export const config = /*#__PURE__*/configuration({
     title: {
       base: ''
     },
-    favicon: 'favicon.ico',
+    favicon: 'src/assets/favicon.ico',
     meta: {
       subject: 'Blog of Tyson Williams',
       description: 'Blog by Tyson Williams about software development and functional programming',

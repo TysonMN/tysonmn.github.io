@@ -81,8 +81,8 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
-src/assets/bundle
-src/assets/styles
+bundle
+styles
 
 # Gatsby files
 .cache/
