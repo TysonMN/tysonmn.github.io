@@ -23,11 +23,11 @@ So here are the latest posts:
 
 > :ArticleCard src=/sample-blog-post, style=box
 
-> :ArticleCard src=/sample-blog-post2, style=box
+> :ArticleCard src=/sample-blog-post, style=box
 
 > :ArticleCard src=/sample-blog-post
 
-> :ArticleCard src=/sample-blog-post2
+> :ArticleCard src=/sample-blog-post
 
 ---
 
