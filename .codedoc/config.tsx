@@ -44,11 +44,5 @@ export const config = /*#__PURE__*/configuration({
       ...DefaultMarkdownCustomComponents,
       Utterances
     }
-  },
-  misc: {
-    github: {
-      repo: 'coding-blog-boilerplate',
-      user: 'CONNECT-platform'
-    }
   }
 });
