@@ -1,6 +1,8 @@
-import { ThemedComponentThis } from '@connectv/jss-theme';  // @see [CONNECTIVE JSS Theme](https://github.com/CONNECT-platform/connective-jss-theme)
-import { RendererLike } from '@connectv/html';              // @see [CONNECTIVE HTML](https://github.com/CONNECT-platform/connective-html)
-import { CodedocTheme } from '@codedoc/core';               // --> Type helper for theme object
+import { ThemedComponentThis } from '@connectv/jss-theme';
+import { RendererLike } from '@connectv/html';
+
+import { UtterancesStyle } from './style';
+
 
 export interface UtterancesOptions {
   theme: string;
@@ -12,6 +14,7 @@ export function Utterances(
   options: UtterancesOptions,
   renderer: RendererLike<any, any>,
 ) {
+  const classes = this.theme.classes(UtterancesStyle);
   let theme = 'github-light';
   if (options && options.theme && options.theme !== '') theme = options.theme;
   const attributes = {
@@ -21,7 +24,9 @@ export function Utterances(
     'theme': theme,
     'crossorigin': 'anonymous'
   }
-  return <script src='https://utteranc.es/client.js'
-                 {...attributes}
-                 async />
+  return <div class={`${classes.utterancesTransparentIframe}`}>
+           <script src='https://utteranc.es/client.js'
+                   {...attributes}
+                   async />
+         </div>
 }
