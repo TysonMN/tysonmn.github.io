@@ -41,7 +41,7 @@ Eventually, you can financially support `coding.blog` in exchange for a personal
 
 ### [utterances](https://utteranc.es/)
 
-Support for comments on posts is powered by utterances.  The comments are stored in post-specific issues in this GitHub repo.  Anyone with a GitHub account can add a comment.  If you authorize the utterances bot to post on your behalf, then you can add a comment directly from the post.  Otherwise, you can simply navigate from the post to the backing issue using the provided link and post there yourself.
+Support for comments on posts is powered by utterances.  The comments are stored in post-specific issues in this GitHub repo.  Anyone with a GitHub account can add a comment.  If you authorize the utterances bot to post on your behalf, then you can add a comment directly from the post.  Otherwise, you can simply navigate from the post to the backing issue using the link provided above the first comment and post there yourself.
 
 ### GitHub
 
