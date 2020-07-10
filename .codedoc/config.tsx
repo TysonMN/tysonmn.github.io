@@ -26,8 +26,6 @@ export const config = /*#__PURE__*/configuration({
     },
     favicon: 'src/assets/favicon.ico',
     meta: {
-      subject: 'Blog of Tyson Williams',
-      description: 'Blog by Tyson Williams about software development and functional programming',
       keywords: ['software', 'development', 'functional', 'programming', 'Tyson', 'Williams'],
     },
   },
