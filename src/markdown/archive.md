@@ -4,20 +4,5 @@
 
 > :Collapse label=2020, default=open
 >
-> > :Collapse label=Febuary, default=open
-> > - Post two
-> > - Post one
->
-> > :Collapse label=January, default=open
-> > - Post two
-> > - Post one
-
-> :Collapse label=2019, default=open
->
-> > :Collapse label=Febuary, default=open
-> > - Post two
-> > - Post one
->
-> > :Collapse label=January, default=open
-> > - Post two
-> > - Post one
+> > :Collapse label=July, default=open
+> > - July 11, 2020 » [Systematic Cleaning](/2020-07-11_systematic_cleaning)
