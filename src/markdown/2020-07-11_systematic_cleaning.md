@@ -39,7 +39,7 @@ Like the clean operations in Visual Studio, it leaves empty directories everywhe
 
 ## `git clean -fdx`
 
-I always use `git` for source control.  It has a [`clean` command](https://git-scm.com/docs/git-clean) that I always execute as `git clean -fdx`.  It is my favorite way to clean because it makes (the working tree of) my repository look like it was just cloned...expect for modifications to tracked files, which are preserved.  To quickly deal with those, I can commit, stash, or discard them.  Here are short explanations of the options.
+I always use `git` for source control.  It has a [`clean` command](https://git-scm.com/docs/git-clean) that I always execute as `git clean -fdx`.  It is my favorite way to clean because it makes (the working tree of) my repository look like it was just cloned... except for modifications to tracked files, which are preserved.  To quickly deal with those, I can commit, stash, or discard them.  Here are short explanations of the options.
 - [`f`](https://git-scm.com/docs/git-clean#Documentation/git-clean.txt--f) is short for `force` and causes deletions to occur without prompts.
 - [`d`](https://git-scm.com/docs/git-clean#Documentation/git-clean.txt--d) causes recursion into untracked directories.
 - [`x`](https://git-scm.com/docs/git-clean#Documentation/git-clean.txt--x8) causes deletion of untracked files.
@@ -48,7 +48,7 @@ In the terminal, this command outputs the relative path to any file it deletes. 
 
 There is one disadvantage of this cleaning via `git` compared to `dotnet clean` or the clean operation in Visual Studio.  I need to first close Visual Studio, because it has open handles to various files in the `.vs` directory and this cleaning by `git` wants to delete that directory and everything in it.  That is another reason for the slow cleaning escalation.  I would prefer to keep Visual Studio open, so I only attempt to clean via git if cleaning via Visual Studio failed.
 
-Before I learned about cleaning via `git`, I used to simulate this level of cleaning by deleting everything in the repository expect the `.git` directory and then discarding all file deletions in my working tree via `git`.  That works but is exceedingly slower the executing `git clean`.
+Before I learned about cleaning via `git`, I used to simulate this level of cleaning by deleting everything in the repository except the `.git` directory and then discarding all file deletions in my working tree via `git`.  That works but is exceedingly slower than executing `git clean`.
 
 ## Reclone repository
 
