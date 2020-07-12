@@ -38,7 +38,7 @@ The `.vs` directory won't exist after a repository is cloned.  This is my experi
 
 ## `git clean`
 
-The `.vs` directory won't exist after [executing `git clean -fdx`](/2020-07-11_systematic_cleaning#git-clean--fdx), which deletes all ignored files.  I often execute this command in order to increase the precision of my changes when modifying how a solution is built.
+The `.vs` directory won't exist after [executing `git clean -fdx`](/2020-07-11_systematic_cleaning#git-clean--fdx), which deletes all untracked files.  I often execute this command in order to increase the precision of my changes when modifying how a solution is built.
 
 # Error message
 
