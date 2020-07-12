@@ -28,15 +28,15 @@ For a `sln` file named `SolutionName.sln`, Visual Studio (version 16.6.2) persis
 
 Having no project explicitly selected as the startup project is typically equivalent to the `.vs` directory not existing.  Now let's get to those three reasons.
 
-## No executable project
+## 1. No executable project
 
 There is no reason to explicitly select a startup project if a solution doesn't contain an executable project. For this post, I am also ignoring such solutions.  For them, the order of the projects in the `sln` file doesn't matter.
 
-## `git clone`
+## 2. `git clone`
 
 The `.vs` directory won't exist after a repository is cloned.  This is my experience every time I clone the repository of a new open-source project.  In rare cases, I also experience this after my `.git` directory becomes corrupted and I [reclone to fix the problem](/2020-07-11_systematic_cleaning#reclone-repository).
 
-## `git clean`
+## 3. `git clean`
 
 The `.vs` directory won't exist after [executing `git clean -fdx`](/2020-07-11_systematic_cleaning#git-clean--fdx), which deletes all untracked files.  I often execute this command in order to increase the precision of my changes when modifying how a solution is built.
 
