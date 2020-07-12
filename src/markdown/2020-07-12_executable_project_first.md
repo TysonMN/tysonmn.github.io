@@ -57,7 +57,7 @@ I never want to see this error message.
 
 When I learned about this behavior of Visual Studio, I moved the primary executable project in my application at work to the beginning of the list of projects in the `sln` file.  I am a co-maintainer of the open-source project [Elmish.WPF](https://github.com/elmish/Elmish.WPF).  We have many samples, and I made our simplest sample the default startup project in [this commit](https://github.com/elmish/Elmish.WPF/commit/6e34050f7573d33eac92c5a0d273ff5dfdc6029e).
 
-Then as writing this post, I wanted to make sure I was practicing what I preached. I found two `sln` files in other open-source projects that could benefit from this change.  Pull requests for [SkiaSharp](https://github.com/mono/SkiaSharp/pull/1369) and the [F# port of Hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog/pull/200) soon followed.
+Then as writing this post, I wanted to make sure I was practicing what I preached. I found two `sln` files in other open-source projects that could benefit from this change.  Pull requests for [SkiaSharp](https://github.com/mono/SkiaSharp/pull/1369) and [F# Hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog/pull/200) soon followed.
 
 # Summary
 
