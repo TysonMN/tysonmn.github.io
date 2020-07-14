@@ -106,3 +106,11 @@ styles
 .tern-port
 
 .codedoc/__tmp_*
+
+# C# and F#
+bin/
+obj/
+.vs/
+*.csproj.user
+*.fsproj.user
+*wpftmp.csproj
