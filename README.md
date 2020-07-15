@@ -8,7 +8,7 @@ npm i -g @codedoc/cli
 codedoc install
 ```
 
-to obtain all depenencies, and then execute
+to obtain all npm dependencies, and then execute
 ```
 codedoc serve
 ```
@@ -17,11 +17,13 @@ to begin serving the website at [localhost:3000](http://localhost:3000).
 
 ## Additional
 
-There are some [dependencies of `codedoc/cli`](https://codedoc.cc/docs/cli#cli) that might need to be installed first.
+There are some additional [dependencies of `codedoc/cli`](https://codedoc.cc/docs/cli#cli) that might need to be installed first.
 
-One dependency of `codedoc/cli` is `codedoc/core`.  Check the versions of these two by executing `codedoc -v`.  Update `codedoc/core` to the latest version by executing `codedoc update latest --local` (c.f. [this issue](https://github.com/CONNECT-platform/codedoc/issues/22)).
+One dependency of `codedoc/cli` is `codedoc/core`.  Execute
+- `codedoc -v` to check the versions of those two and
+- `codedoc update latest --local` to update `codedoc/core` to the latest version (c.f. [this issue](https://github.com/CONNECT-platform/codedoc/issues/22)).
 
-If port 3000 is being used, then a different one can be specified in the [configuration](https://codedoc.cc/docs/config/overview#available-properties).
+If port `3000` is being used, then a different one can be specified in the [configuration](https://codedoc.cc/docs/config/overview#available-properties).
 
 # Acknowledgements
 
