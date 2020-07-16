@@ -106,7 +106,7 @@ I have only ever experienced this use case once, so I decided to provide that ex
 [`language-ext`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L36-L42) contains extension methods for safely getting the value out of a dictionary that are mostly the same.  The main difference is the type of the first argument.  One is for [`IDictionary<K, V>`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L19-L25) and the other is for [`IReadOnlyDictionary<K, V>`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L36-L42).  Because of that, this is a compiler error.
 
 ```csharp
-new Dictionary<int, int>()./*~err~*/TryGetValu/*~err~*/e(0);
+new Dictionary<int, int>()./*~err~*/TryGetValue/*~err~*/(0);
 ```
 
 > Error CS0121 The call is ambiguous between the following methods or properties: `OutExtensions.TryGetValue<K, V>(IDictionary<K, V>, K)` and `OutExtensions.TryGetValue<K, V>(IReadOnlyDictionary<K, V>, K)`
@@ -153,7 +153,7 @@ public Option<R> ApplyInTermsOfBind<T, R>(
   Option<Func<T, R>> func,
   Option<T> arg
 ) =>
-  arg.Bind(t => func.Bind<Func<T, R>, R>(f => /*~err~*/f(t)/*~err~*/.As<Option<R>>()));
+  arg.Bind(t => func.Bind<Func<T, R>, R>(f => /*~err~*/f(t/*~err~*/).As<Option<R>>()));
 ```
 
 > Error CS1929 `R` does not contain a definition for `As` and the best extension method overload `GenericExtensions.As<Option<R>>(Option<R>)` requires a receiver of type `Option<R>`
