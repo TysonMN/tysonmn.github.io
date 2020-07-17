@@ -2,13 +2,21 @@
 
 ## Essential
 
-To locally host this site, clone this repo, execute
+To locally host this site, follow these steps.
+
+### First time
+
+Clone this repo and execute
 ```
 npm i -g @codedoc/cli
 codedoc install
 ```
 
-to obtain all npm dependencies, and then execute
+to obtain all npm dependencies.
+
+### Every time
+
+Execute
 ```
 codedoc serve
 ```
@@ -19,11 +27,14 @@ to begin serving the website at [localhost:3000](http://localhost:3000).
 
 There are some additional [dependencies of `codedoc/cli`](https://codedoc.cc/docs/cli#cli) that might need to be installed first.
 
-One dependency of `codedoc/cli` is `codedoc/core`.  Execute
-- `codedoc -v` to check the versions of those two and
-- `codedoc update latest --local` to update `codedoc/core` to the latest version (c.f. [this issue](https://github.com/CONNECT-platform/codedoc/issues/22)).
-
 If port `3000` is being used, then a different one can be specified in the [configuration](https://codedoc.cc/docs/config/overview#available-properties).
+
+### Updating
+
+- Execute `codedoc update latest` from `.codedoc` directory in a Windows terminal to update `codedoc/cli`
+- Execute `codedoc update latest --local` to update `codedoc/core`
+
+I have to update `codedoc/cli` from a Windows terminal because of [this issue](https://github.com/CONNECT-platform/codedoc/issues/22).
 
 # Acknowledgements
 
