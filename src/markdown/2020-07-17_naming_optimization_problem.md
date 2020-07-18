@@ -28,6 +28,12 @@ Naming is an [optimization problem](https://en.wikipedia.org/wiki/Optimization_p
 
 See a typo? You can fix it by editing [this file](https://github.com/bender2k14/tyson-williams-blog/blob/master/src/markdown/2020-07-17_naming_optimization_problem.md) and then sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
 
+# Tags
+
+The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
+
+[reference](:Tag)
+
 # Comments
 
 > :DarkLight
