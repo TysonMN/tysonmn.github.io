@@ -97,7 +97,7 @@ This convention selects `A` as the name of the first type parameter and then con
 
 ### Variable names
 
-With these type parameter names, the variable names that I have see are their lowercase equivalents.  That would be `a`, `b`, `c`, ..., and they have the same advantages and disadvantages as the type parameter names.
+With these type parameter names, the variable names that I have seen are their lowercase equivalents.  That would be `a`, `b`, `c`, ..., and they have the same advantages and disadvantages as the type parameter names.
 
 # My opinion
 
