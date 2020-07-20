@@ -18,10 +18,10 @@ export function Utterances(
   let theme = 'github-light';
   if (options && options.theme && options.theme !== '') theme = options.theme;
   const attributes = {
-    'repo': 'bender2k14/tyson-williams-blog',
-    'issue-term': 'pathname',
-    'label': '💬comments',
-    'theme': theme,
+    'data-repo': 'bender2k14/tyson-williams-blog',
+    'data-issue-term': 'pathname',
+    'data-label': '💬comments',
+    'data-theme': theme,
     'crossorigin': 'anonymous'
   }
   return <div class={`${classes.utterancesTransparentIframe}`}>
