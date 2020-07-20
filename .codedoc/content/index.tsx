@@ -1,6 +1,6 @@
 import { RendererLike } from '@connectv/html';
 import { File } from 'rxline/fs';
-import { Page, Meta, ContentNav, Fonts, ToC, GithubSearch$ } from '@codedoc/core/components';
+import { Page, Meta, ContentNav, Fonts, ToC } from '@codedoc/core/components';
 
 import { config } from '../config';
 import { Header } from './header';
