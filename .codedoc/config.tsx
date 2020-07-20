@@ -6,6 +6,7 @@ import { codingBlog } from '@codedoc/coding-blog-plugin';
 
 import { theme } from './theme';
 import { Utterances } from './components/utterances';
+import { SeeTypo$ } from './components/SeeTypo';
 
 
 
@@ -40,7 +41,8 @@ export const config = /*#__PURE__*/configuration({
   markdown: {
     customComponents: {
       ...DefaultMarkdownCustomComponents,
-      Utterances
+      Utterances,
+      SeeTypo$
     }
   }
 });
