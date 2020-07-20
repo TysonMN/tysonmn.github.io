@@ -113,7 +113,7 @@ The feature image is from a screenshot I took of the [documentation of `System.F
 
 This post was based on [this post](https://tysondw.blogspot.com/2019/01/minimal-and-intuitive-type-parameter.html) to my previous blog on 2019-01-19.  I think this post is better.
 
-See a typo? You can fix it by editing [this file](https://github.com/bender2k14/tyson-williams-blog/blob/master/src/markdown/2020-07-19_type_parameter_naming.md) and then sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
+> :SeeTypo$
 
 # Tags
 

@@ -186,7 +186,7 @@ The identity function is a useful extension method in C# because it can help the
 
 The code in this post is available [here](https://github.com/bender2k14/tyson-williams-blog/tree/master/src/code/IdentityAsAs).
 
-See a typo? You can fix it by editing [this file](https://github.com/bender2k14/tyson-williams-blog/blob/master/src/markdown/2020-07-14_identity_as_as.md) and then sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
+> :SeeTypo$
 
 # Tags
 

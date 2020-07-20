@@ -12,7 +12,7 @@ I don't know how I came to like this phrasing.  As I write this, Google only has
 
 ---
 
-See a typo? You can fix it by editing [this file](https://github.com/bender2k14/tyson-williams-blog/blob/master/src/markdown/2020-07-15_naming_is_impossibly_hard.md) and then sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
+> :SeeTypo$
 
 # Tags
 
