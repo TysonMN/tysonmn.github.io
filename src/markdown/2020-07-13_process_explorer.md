@@ -55,7 +55,7 @@ Follow these steps to kill an unknown process with an open file handle.
 
 ---
 
-See a typo? You can fix it by editing [this file](https://github.com/bender2k14/tyson-williams-blog/blob/master/src/markdown/2020-07-13_process_explorer.md) and then sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
+> :SeeTypo$
 
 # Tags
 

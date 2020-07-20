@@ -65,7 +65,7 @@ The development experience is improved by having the list of projects begin with
 
 ---
 
-See a typo? You can fix it by editing [this file](https://github.com/bender2k14/tyson-williams-blog/blob/master/src/markdown/2020-07-12_executable_project_first.md) and then sending me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
+> :SeeTypo$
 
 # Tags
 
