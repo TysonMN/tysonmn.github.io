@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using LanguageExt;
 
-namespace Disambiguation {
+namespace AmbiguousCall {
   class Sandbox {
     public Option<int> Method() =>
       new Dictionary<int, int>()
