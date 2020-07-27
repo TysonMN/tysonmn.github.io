@@ -178,6 +178,37 @@ public Option<R> ApplyInTermsOfBind<T, R>(
   arg.Bind(t => func.Bind(f => Some(f(t))));
 ```
 
+## 6. Type invariance
+
+_Added on 2020-07-27_
+
+[Type variance](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)) extends the inheritance hierarchy of a generic type based on the inheritance hierarchy of its type parameters.  For example, because [`IEnumerable<T>` is covariant (in `T`)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1#type-parameters:~:text=This%20type%20parameter%20is%20covariant.%20That,see%20Covariance%20and%20Contravariance%20in%20Generics.) and because `object` is a subtype of `string`, it follows that `IEnumerable<object>` is a subtype of `IEnumerable<string>`.  [Covariance in C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/) is specified with the [`out` keyword on the type parameter](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/out-generic-modifier).  For example, here it is in the [definition for `IEnumerable<T>`](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1#code-try-0:~:text=public%20interface%20IEnumerable%3Cout%20T%3E%20%3A%20System.Collections.IEnumerable).
+```csharp
+public interface IEnumerable<out T> : System.Collections.IEnumerable
+```
+
+In contrast, consider the [definition of `Task<TResult>`](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1#code-try-0:~:text=public%20class%20Task%3CTResult%3E%20%3A%20System.Threading.Tasks.Task).
+```csharp
+public class Task<TResult> : System.Threading.Tasks.Task
+```
+
+It lacks the `out` keyword (and the [`in` keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/in-generic-modifier)), as every `class` in C# must (since only interfaces and delegates support them), so `Lazy<TResult>` is invariant (in `TResult`).  As a consequence, `Task<object>` is not a subtype of `Task<string>`, so this code doesn't compile.
+
+```csharp
+public Task<string> taskString = Task.FromResult("");
+public void Foo() => Bar(/*~err~*/taskString/*~err~*/);
+public void Bar(Task<object> _) { }
+```
+
+> Error CS1503 Argument 1: cannot convert from `System.Threading.Tasks.Task<string>` to `System.Threading.Tasks.Task<object>`
+
+We can compensate for the lack of covariance using our identity function.
+```csharp
+public Task<string> taskString = Task.FromResult("");
+public void Foo() => Bar(taskString.ContinueWith(x => x.As<object>()));
+public void Bar(Task<object> _) { }
+```
+
 # Summary
 
 The identity function is a useful extension method in C# because it can help the compiler figure out the intended types in situations that would otherwise be too complicated and cause a compiler error.
