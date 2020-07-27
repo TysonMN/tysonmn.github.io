@@ -38,7 +38,7 @@ I have to update `codedoc/cli` from a Windows terminal because of [this issue](h
 
 # Acknowledgements
 
-I could not have created this blog without all the help I received.
+I could not have created this blog without lots of help.
 
 ## Technologies
 
