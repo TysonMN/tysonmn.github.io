@@ -209,6 +209,8 @@ public void Foo() => Bar(taskString.ContinueWith(x => x.As<object>()));
 public void Bar(Task<object> _) { }
 ```
 
+I also encounter this situation with [`language-ext`](https://github.com/louthy/language-ext) when using invariant types like [`Option<T>`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/DataTypes/Option/Option.cs#L36).
+
 # Summary
 
 The identity function is a useful extension method in C# because it can help the compiler figure out the intended types in situations that would otherwise be too complicated and cause a compiler error.
