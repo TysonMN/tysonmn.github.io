@@ -192,7 +192,7 @@ In contrast, consider the [definition of `Task<TResult>`](https://docs.microsoft
 public class Task<TResult> : System.Threading.Tasks.Task
 ```
 
-It lacks the `out` keyword (and the [`in` keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/in-generic-modifier)), as every `class` in C# must (since only interfaces and delegates support them), so `Lazy<TResult>` is invariant (in `TResult`).  As a consequence, `Task<object>` is not a subtype of `Task<string>`, so this code doesn't compile.
+It lacks the `out` keyword (and the [`in` keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/in-generic-modifier)), as every `class` in C# must (since only interfaces and delegates support them), so `Task<TResult>` is invariant (in `TResult`).  As a consequence, `Task<object>` is not a subtype of `Task<string>`, so this code doesn't compile.
 
 ```csharp
 public Task<string> taskString = Task.FromResult("");
