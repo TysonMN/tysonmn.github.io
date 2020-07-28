@@ -103,7 +103,7 @@ Don't use hidden members though.  It makes things very confusing.
 
 I have only ever experienced this use case once, so I decided to provide that exact example instead of creating a simpler one.
 
-[`language-ext`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L36-L42) contains extension methods for safely getting the value out of a dictionary that are mostly the same.  The main difference is the type of the first argument.  One is for [`IDictionary<K, V>`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L19-L25) and the other is for [`IReadOnlyDictionary<K, V>`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L36-L42).  Because of that, this is a compiler error.
+[`language-ext`](https://github.com/louthy/language-ext) contains extension methods for [safely getting the value out of a dictionary](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L36-L42) that are mostly the same.  The main difference is the type of the first argument.  One is for [`IDictionary<K, V>`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L19-L25) and the other is for [`IReadOnlyDictionary<K, V>`](https://github.com/louthy/language-ext/blob/4db4d9277151628e35309227475738180488606d/LanguageExt.Core/Extensions/TryOutExt.cs#L36-L42).  Because of that, this is a compiler error.
 
 ```csharp
 new Dictionary<int, int>()./*~err~*/TryGetValue/*~err~*/(0);
