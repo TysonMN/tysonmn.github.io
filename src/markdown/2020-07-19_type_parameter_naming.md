@@ -101,7 +101,7 @@ With these type parameter names, the variable names that I have seen are their l
 
 # My opinion
 
-I prefer the alphabetic convention.  I think it has best tradeoffs.  Since the scope is small, it is clear from context that these are all names of type parameters.  Beginning each name with `T` is completely redundant.
+I prefer the alphabetic convention.  I think it has the best tradeoffs.  Since the scope is small, it is clear from context that these are all names of type parameters.  Beginning each name with `T` is completely redundant.
 
 # Summary
 
