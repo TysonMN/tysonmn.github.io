@@ -5,7 +5,7 @@
 > Type Parameter Naming
 
 > :Author name=Tyson Williams,
->         date=DRAFT,
+>         date=2020-07-19,
 >         avatar=src/assets/images/TysonWilliams.jpg
 
 _`A`, `B`, `C`, ... are minimal and intuitive names for type parameters._
