@@ -5,6 +5,7 @@
 > :Collapse label=2020, default=open
 >
 > > :Collapse label=July, default=open
+> > - July 29, 2020 » [Everything](/2020-07-29_everything)
 > > - July 19, 2020 » [Type Parameter Naming](/2020-07-19_type_parameter_naming)
 > > - July 17, 2020 » [Naming Optimization Problem](/2020-07-17_naming_optimization_problem)
 > > - July 15, 2020 » [Naming is Impossibly Hard](/2020-07-15_naming_is_impossibly_hard)
