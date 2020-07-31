@@ -2,7 +2,7 @@
 
 > :Title
 >
-> Everything
+> Everything: The Windows search utility
 
 > :Author name=Tyson Williams,
 >         date=2020-07-29,
