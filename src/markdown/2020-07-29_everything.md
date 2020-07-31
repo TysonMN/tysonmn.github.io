@@ -18,7 +18,9 @@ Windows File Explorer can search for files and folders.  I often use it to find 
 
 However, Windows File Explorer is exceedingly slow when the search space is large.  It took 17 minutes to complete the search for "the" shown in the feature image.  The search space was my `C` drive, which totals 154 GB in 1,000,000 files contained in 200,000 folders.
 
-![Metadata for my C drive](src/assets/images/C_drive_metadata.png)
+<img src="src/assets/images/C_drive_metadata.png"
+     alt="Metadata for my C drive"
+     style="display: block; margin-left: auto; margin-right: auto;">
 
 In response to this, some create an escalating sequence of [20 troubleshooting steps](https://windowsreport.com/file-explorer-slow-windows-10/) culminating in "Create a new user account".  Keep your user account.  I have another solution.
 
