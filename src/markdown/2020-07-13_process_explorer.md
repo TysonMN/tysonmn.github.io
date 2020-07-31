@@ -28,15 +28,15 @@ Here is an example of how to use [Process Explorer](https://docs.microsoft.com/e
 
 Use the "Find Handle or DLL..." feature...
 
-![Find Handle or DLL in Process Explorer](src/assets/images/Process_Explorer_find_handle_or_DLL.png)
+![Select Find Handle or DLL in Process Explorer](src/assets/images/Process_Explorer_find_handle_or_DLL.png)
 
 ...to enter the file (or folder!) name, click "Search", then click on the correct search result...
 
-![Find Handle or DLL in Process Explorer](src/assets/images/Process_Explorer_search_results.png)
+![Enter the name and select the correct search result in Process Explorer](src/assets/images/Process_Explorer_search_results.png)
 
 ...and kill it.
 
-![Kill Process in Process Explorer](src/assets/images/Process_Explorer_kill_process.png)
+![Select Kill Process in Process Explorer](src/assets/images/Process_Explorer_kill_process.png)
 
 # Summary
 
