@@ -49,9 +49,9 @@ I consider it a small mistake whenever I try to start a project that cannot be s
 >
 > In order to debug this project, add an executable project to this solution which references the library project.  Set the executable project as the startup project.
 
-<img src="src/assets/images/Visual_Studio_cannot_start_class_library_error_message.png"
-     alt="Error message in Visual Studio when trying to start a class library"
-     style="display: block; margin-left: auto; margin-right: auto;">
+> :Center
+>
+> ![Error message in Visual Studio when trying to start a class library](src/assets/images/Visual_Studio_cannot_start_class_library_error_message.png)
 
 I never want to see this error message.
 
