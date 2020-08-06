@@ -33,6 +33,7 @@ If port `3000` is being used, then a different one can be specified in the [conf
 
 - Execute `codedoc update latest` from `.codedoc` directory in a Windows terminal to update `codedoc/cli`
 - Execute `codedoc update latest --local` to update `codedoc/core`
+- Execute `codedoc install @codedoc/coding-blog-plugin` to update `coding-blog-plugin`
 
 I have to update `codedoc/cli` from a Windows terminal because of [this issue](https://github.com/CONNECT-platform/codedoc/issues/22).
 
