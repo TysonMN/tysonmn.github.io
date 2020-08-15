@@ -4,7 +4,7 @@
 
 # Latest Posts
 
-> :ArticleCard src=/2020-07-29_everything
+> :ArticleCard src=/2020-07-29_everything_the_windows_search_utility
 
 > :ArticleCard src=/2020-07-19_type_parameter_naming
 
