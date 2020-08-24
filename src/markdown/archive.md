@@ -4,6 +4,9 @@
 
 > :Collapse label=2020, default=open
 >
+> > :Collapse label=August, default=open
+> > - August 23, 2020 » [Functional Programming in C#](/2020-08-23_functional_programming_in_csharp)
+>
 > > :Collapse label=July, default=open
 > > - July 29, 2020 » [Everything: The Windows search utility](/2020-07-29_everything_the_windows_search_utility)
 > > - July 19, 2020 » [Type Parameter Naming](/2020-07-19_type_parameter_naming)
