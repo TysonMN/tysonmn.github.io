@@ -7,6 +7,7 @@ import { codingBlog } from '@codedoc/coding-blog-plugin';
 import { theme } from './theme';
 import { Utterances } from './components/utterances';
 import { SeeTypo$ } from './components/SeeTypo';
+import { googleAnalytics } from './components/GoogleAnalytics/plugin';
 
 
 
@@ -36,7 +37,8 @@ export const config = /*#__PURE__*/configuration({
         'src/assets/images',
         'src/assets/favicon.ico',
       ]
-    })
+    }),
+    googleAnalytics("UA-176781099-1")
   ],
   markdown: {
     customComponents: {
