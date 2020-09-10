@@ -30,7 +30,7 @@ export function googleAnalytics(trackingId: string) {
   let functionName = 'sendPageViewToGoogle'
   let functionBody =
     `gtag('js', new Date());` +
-    `gtag('config', '${trackingId}');`
+    `gtag('config', '${trackingId}', { 'page_path': location.pathname });`
   let localCode =
     'function gtag(){dataLayer.push(arguments);}' +
     `function ${functionName}(){${functionBody}}` +
