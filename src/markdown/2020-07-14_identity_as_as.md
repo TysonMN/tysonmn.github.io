@@ -217,7 +217,7 @@ The identity function is a useful extension method in C# because it can help the
 
 ---
 
-The code in this post is available [here](https://github.com/bender2k14/tyson-williams-blog/tree/master/src/code/IdentityAsAs).
+The code in this post is available [here](https://github.com/TysonMN/tyson-williams-blog/tree/master/src/code/IdentityAsAs).
 
 > :SeeTypo$
 
