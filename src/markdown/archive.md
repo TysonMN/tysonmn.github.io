@@ -4,6 +4,9 @@
 
 > :Collapse label=2020, default=open
 >
+> > :Collapse label=September, default=open
+> > - September 12, 2020 » [EditorConfig](/2020-09-12_editorconfig)
+>
 > > :Collapse label=August, default=open
 > > - August 23, 2020 » [Functional Programming in C#](/2020-08-23_functional_programming_in_csharp)
 >
