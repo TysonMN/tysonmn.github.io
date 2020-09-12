@@ -63,4 +63,4 @@ Of course GitHub also plays a crucial role.  In addition to hosting the comment
 
 # Improvements?
 
-Is there some improvement that you would like to see in my blog?  You can tell me about it by [creating an issue](https://github.com/bender2k14/tyson-williams-blog/issues/new) or you can make the improvement yourself and then send me a [pull request](https://github.com/bender2k14/tyson-williams-blog/compare).
+Is there some improvement that you would like to see in my blog?  You can tell me about it by [creating an issue](https://github.com/TysonMN/tyson-williams-blog/issues/new) or you can make the improvement yourself and then send me a [pull request](https://github.com/TysonMN/tyson-williams-blog/compare).
