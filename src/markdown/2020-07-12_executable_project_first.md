@@ -73,7 +73,7 @@ The development experience is improved by having the list of projects begin with
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[devops](:Tag) [Visual Studio](:Tag)
+[DevOps](:Tag) [Visual Studio](:Tag)
 
 # Comments
 
