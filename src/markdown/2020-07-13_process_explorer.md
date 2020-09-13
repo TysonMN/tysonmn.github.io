@@ -68,7 +68,7 @@ Follow these steps to kill an unknown process with an open file handle.
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[devops](:Tag) [Windows](:Tag)
+[DevOps](:Tag) [Windows](:Tag)
 
 # Comments
 

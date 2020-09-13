@@ -68,7 +68,7 @@ I systematically clean my repository when I have build failures for peculiar rea
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[devops](:Tag) [git](:Tag)
+[DevOps](:Tag) [git](:Tag)
 
 # Comments
 
