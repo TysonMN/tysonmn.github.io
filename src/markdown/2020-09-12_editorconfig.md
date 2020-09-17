@@ -14,7 +14,7 @@ To help maintain a consistent coding style, I use [EditorConfig](https://editorc
 
 EditorConfig is especially helpful when working in a team.  Part of my onboarding process used to include giving the new programmer my Visual Studio settings file that only contained my text editor settings.  Now their copy of Visual Studio will automatically use the coding style defined in the EditorConfig file.
 
-To help you get started, you can use my [EditorConfig file](https://github.com/TysonMN/tyson-williams-blog/blob/master/src/assets/text/.editorconfig).  For each setting, the choice I made is less important than that fact that I made a choice.  It is fine to choose different settings.  The important thing is that you have some EditorConfig file.
+To help you get started, you can use my [EditorConfig file](src/assets/text/.editorconfig).  For each setting, the choice I made is less important than that fact that I made a choice.  It is fine to choose different settings.  The important thing is that you have some EditorConfig file.
 
 # Summary
 

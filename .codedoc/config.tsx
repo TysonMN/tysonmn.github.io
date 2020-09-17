@@ -33,10 +33,7 @@ export const config = /*#__PURE__*/configuration({
   },
   plugins: [
     codingBlog({
-      assets: [
-        'src/assets/images',
-        'src/assets/favicon.ico',
-      ]
+      assets: [ 'src/assets' ]
     }),
     googleAnalytics("UA-176781099-1")
   ],
