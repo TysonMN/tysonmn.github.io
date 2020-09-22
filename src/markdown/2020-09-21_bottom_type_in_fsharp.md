@@ -18,6 +18,8 @@ type Bottom = private Bottom of Bottom
 
 My original thought was to omit `of Bottom` and then have this line be alone in its module (so that a public function does not provide access to this private case constructor).  Then I read the suggestion to include `of Bottom` in [this post on Reddit](https://www.reddit.com/r/fsharp/comments/5dmo1f/f_logical_void_type/) from three years ago.  By including `of Bottom`, this [discriminated union](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/discriminated-unions) is a [recursive type](https://fsharpforfunandprofit.com/posts/recursive-types-and-folds/) but lacks a base case.  As such, it is clear from this one line that it is impossible to obtain an instance of `Bottom`.
 
+In addition to having no values, there is another property of the bottom type.  In subtyping systems, it is a subtype of all types.  That is the motivation for the name "bottom".  It sits at the bottom of the type hierarchy.  My bottom type does not have this property.  I think the suggestion for F# to add the bottom type was specifically requesting this feature.
+
 ---
 
 > :SeeTypo$
