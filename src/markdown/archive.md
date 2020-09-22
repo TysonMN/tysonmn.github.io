@@ -5,6 +5,7 @@
 > :Collapse label=2020, default=open
 >
 > > :Collapse label=September, default=open
+> > - September 21, 2020 » [Bottom Type in F#](/2020-09-21_bottom_type_in_fsharp)
 > > - September 12, 2020 » [EditorConfig](/2020-09-12_editorconfig)
 >
 > > :Collapse label=August, default=open
