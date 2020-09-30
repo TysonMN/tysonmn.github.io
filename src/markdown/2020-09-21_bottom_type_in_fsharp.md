@@ -38,7 +38,7 @@ If we change `Bottom` to a `struct`, then the compiler complains about the recur
 
 ```fsharp
 [<Struct>]
-type Bottom = Bottom of Bottom
+type (*~*)Bottom(*~*) = Bottom of Bottom
 ```
 
 > Error	FS0954 This type definition involves an immediate cyclic reference through a struct field or inheritance relation
