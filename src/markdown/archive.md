@@ -4,6 +4,9 @@
 
 > :Collapse label=2020, default=open
 >
+> > :Collapse label=October, default=open
+> > - October 13, 2020 » [Syntactic vs semantic grouping](/2020-10-13_syntactic_vs_semantic_grouping)
+>
 > > :Collapse label=September, default=open
 > > - September 21, 2020 » [Bottom Type in F#](/2020-09-21_bottom_type_in_fsharp)
 > > - September 12, 2020 » [EditorConfig](/2020-09-12_editorconfig)
