@@ -36,7 +36,7 @@ Grouping the pairs by owner is a semantic grouping.  I think any grouping that y
 
 ## Netflix
 
-The home screen of Netflix explicitly groups videos by genre.  That is a syntactic grouping.  There is an implicit groping as well.  Any video shown to me on any part of the home screen is one that Netflix is recommending to me.  That group of videos is much smaller and than the group of videos that Netflix decided not to recommend to me.  This semantic grouping is very valuable to me (and Netflix).
+The home screen of Netflix explicitly groups videos by genre.  That is a syntactic grouping.  There is an implicit grouping as well.  Any video shown to me on any part of the home screen is one that Netflix is recommending to me.  That group of videos is much smaller and than the group of videos that Netflix decided not to recommend to me.  This semantic grouping is very valuable to me (and Netflix).
 
 ## Files in a repository
 
