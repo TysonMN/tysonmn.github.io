@@ -4,6 +4,9 @@
 
 > :Collapse label=2020, default=open
 >
+> > :Collapse label=November, default=open
+> > - November 01, 2020 » [Computer endurance via self-care](/2020-11-01_computer_endurance_via_self-care)
+>
 > > :Collapse label=October, default=open
 > > - October 13, 2020 » [Syntactic vs semantic grouping](/2020-10-13_syntactic_vs_semantic_grouping)
 >
