@@ -23,8 +23,8 @@ Sometimes restarting my computer is the correct fix.  However, I was very happy 
 Here is an example of how to use [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) to find and kill the process with an open handle to a particular file.  Suppose I want clean my repository by [executing `git clean -fdx`](/2020-07-11_systematic_cleaning#git-clean--fdx).  As shown in the feature image above, it can fail if Visual Studio is still open.
 
 ```bash
-$ git clean -fdx
-Unlink of file 'src/.vs/Elmish.WPF/v16/TestStore/0/000.testlog' failed. Should I try again? (y/n)
+git clean -fdx
+> Unlink of file 'src/.vs/Elmish.WPF/v16/TestStore/0/000.testlog' failed. Should I try again? (y/n)
 ```
 
 Use the "Find Handle or DLL..." feature...
