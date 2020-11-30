@@ -4,6 +4,9 @@
 
 > :Collapse label=2020, default=open
 >
+> > :Collapse label=December, default=open
+> > - December 01, 2020 » [Converting asynchronous cancellation from C# to F#](/2020-12-01_csharp_task_to_fsharp_async)
+>
 > > :Collapse label=November, default=open
 > > - November 01, 2020 » [Computer endurance via self-care](/2020-11-01_computer_endurance_via_self-care)
 >
