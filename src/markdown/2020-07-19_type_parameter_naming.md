@@ -119,7 +119,7 @@ This post was based on [this post](https://tysondw.blogspot.com/2019/01/minimal-
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[CSharp](:Tag)
+[naming](:Tag) [CSharp](:Tag)
 
 # Comments
 

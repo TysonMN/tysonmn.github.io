@@ -32,7 +32,7 @@ Naming is an [optimization problem](https://en.wikipedia.org/wiki/Optimization_p
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[reference](:Tag)
+[reference](:Tag) [naming](:Tag)
 
 # Comments
 

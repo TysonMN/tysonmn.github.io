@@ -55,7 +55,7 @@ My six-year-old daughter has been saying lately that "there is no perfect; there
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[Type Theory](:Tag) [FSharp](:Tag)
+[type theory](:Tag) [FSharp](:Tag)
 
 # Comments
 

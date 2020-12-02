@@ -28,7 +28,7 @@ Use EditorConfig to store coding style conventions and to efficiently share thos
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[DevOps](:Tag) [Teamwork](:Tag)
+[DevOps](:Tag) [teamwork](:Tag)
 
 # Comments
 

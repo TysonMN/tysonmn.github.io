@@ -365,6 +365,12 @@ Suppose the C# code never checked `CancellationToken.IsCancellationRequested`.  
 
 > :SeeTypo$
 
+# Tags
+
+The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
+
+[CSharp](:Tag) [FSharp](:Tag)
+
 # Comments
 
 > :DarkLight

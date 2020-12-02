@@ -168,6 +168,12 @@ I hope knowing everything that I have tried gives you ideas and motivation to im
 
 > :SeeTypo$
 
+# Tags
+
+The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
+
+[health](:Tag) [DevOps](:Tag)
+
 # Comments
 
 > :DarkLight

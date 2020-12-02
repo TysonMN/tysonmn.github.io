@@ -18,7 +18,7 @@ I don't know how I came to like this phrasing.  As I write this, Google only has
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[reference](:Tag)
+[reference](:Tag) [naming](:Tag)
 
 # Comments
 
