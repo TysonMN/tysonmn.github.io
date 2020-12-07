@@ -54,7 +54,7 @@ A non-blocking wait is typically achieved by calling [Task.Delay](https://docs.m
 > > :Tab title=F#
 > > ```fsharp | Program.fs
 > > let foo () = async {
-> >   use! d = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
+> >   use! __ = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
 > >   Console.WriteLine "Starting"
 > >   do! Async.Sleep 1000
 > >   Console.WriteLine "Waiting"
@@ -76,7 +76,7 @@ A non-blocking wait is typically achieved by calling [Task.Delay](https://docs.m
 > >   0
 > > ```
 
-(Normally I would use the [wildcard pattern](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/pattern-matching#wildcard-pattern) `_` in in place of `d` in the F# code, but [that is not currently supported](https://github.com/dotnet/fsharp/issues/7775#issuecomment-735512911).)
+(Normally I would use the [wildcard pattern](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/pattern-matching#wildcard-pattern) `_` in in place of `__` in the F# code, but [that is not currently supported](https://github.com/dotnet/fsharp/issues/7775#issuecomment-735512911).)
 
 In both languages, this is the output.
 
@@ -245,7 +245,7 @@ The behavior of `Async.Start` and its variants when not given a `CancellationTok
 
 ```fsharp | Program.fs
 let foo () = async {
-  use! d = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
+  use! __ = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
   Console.WriteLine "Starting"
   do! Async.Sleep 1000
   Console.WriteLine "Waiting"
@@ -318,7 +318,7 @@ Asynchronous code might contain a loop.  If some corresponding asynchronous comp
 > >   for _ in Enumerable.Repeat(0, 150000000) do ()
 > > 
 > > let foo () = async {
-> >   use! d = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
+> >   use! __ = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
 > >   Console.WriteLine "Starting"
 > >   let mutable i = 0
 > >   while (i < 3) do

@@ -6,7 +6,7 @@ let busyWait () =
   for _ in Enumerable.Repeat(0, 150000000) do ()
 
 let foo () = async {
-  use! d = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
+  use! __ = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
   Console.WriteLine "Starting"
   let mutable i = 0
   while (i < 3) do

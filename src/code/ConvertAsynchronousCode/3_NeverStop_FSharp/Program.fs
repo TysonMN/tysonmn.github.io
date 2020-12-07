@@ -2,7 +2,7 @@
 open System.Threading
 
 let foo () = async {
-  //use! d = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
+  //use! __ = Async.OnCancel(fun () -> Console.WriteLine "Canceled")
   Console.WriteLine "Starting"
   do! Async.Sleep 1000
   Console.WriteLine "Waiting"
