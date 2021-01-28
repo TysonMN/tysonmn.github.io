@@ -33,7 +33,16 @@ export const config = /*#__PURE__*/configuration({
   },
   plugins: [
     codingBlog({
-      assets: [ 'src/assets' ]
+      assets: [ 'src/assets' ],
+      feed: {
+        url: 'https://tysonwilliams.coding.blog',
+        title: 'Tyson Williams',
+        exclude: [
+          'archive.md',
+          'about.md',
+          '2020-07-29_everything.md'
+        ]
+      }
     }),
     googleAnalytics("UA-176781099-1")
   ],
