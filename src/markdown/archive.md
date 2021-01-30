@@ -2,6 +2,11 @@
 >
 > Archive
 
+> :Collapse label=2021, default=open
+>
+> > :Collapse label=January, default=open
+> > - January 30, 2021 » [Function composition syntax](/2021-01-30_function_composition_syntax)
+
 > :Collapse label=2020, default=open
 >
 > > :Collapse label=December, default=open
