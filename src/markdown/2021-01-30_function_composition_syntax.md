@@ -6,7 +6,7 @@
 >         date=2021-01-30,
 >         avatar=src/assets/images/TysonWilliams.jpg
 
-_The execution order of code should match the left-to-right order it is read in English._
+_The execution order of code should match the way it is read in English: from left to right._
 
 Whenever I see function composition in a new context, I make sure to look up its precise definition.  There is a choice that must be made in the definition that has always seemed arbitrary to me...at least until now.  I no longer think the choice is completely arbitrary, and I have an opinion about which choice is better.
 
