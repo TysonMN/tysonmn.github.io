@@ -34,7 +34,7 @@ The placement of the function (or operator) `f` before its input `x` as in `f(x)
 
 With this in mind, I can rephrase the advantage that preserves the syntactic ordering when decomposing.  A single function is typically written with its input using prefix notation.  Then to define function composition as `⬜⚪(s) = ⬜(⚪(s))` is to be more consistent with the prefix notation for single function application.  I have to admit, that is a very convincing reason to prefer this definition.
 
-When I design a software application, I try break up the problem into several loosely coupled pieces.  One reason for this is to help isolate any bad choices.  In this case, I am suggesting that using prefix notation for function evaluation was a bad choice.  As such, I don't want to feel obligated to perpetuate that bad choice into the definition of function composition as well.  Instead, I want to reconsider the advantages and disadvantages and give `⬜⚪(s) = ⚪(⬜(s))` a reasonable chance at being the chosen definition.
+When I design a software application, I try to break up the problem into several loosely coupled pieces.  One reason for this is to help isolate any bad choices.  In this case, I am suggesting that using prefix notation for function evaluation was a bad choice.  As such, I don't want to feel obligated to perpetuate that bad choice into the definition of function composition as well.  Instead, I want to reconsider the advantages and disadvantages and give `⬜⚪(s) = ⚪(⬜(s))` a reasonable chance at being the chosen definition.
 
 # Languages
 
