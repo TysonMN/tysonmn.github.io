@@ -12,7 +12,7 @@ indent_style = space
 tab_width = 2
 
 # New line preferences
-insert_final_newline = true
+insert_final_newline = false
 trim_trailing_whitespace = true
 
 ##### C# files #####
