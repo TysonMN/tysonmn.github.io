@@ -70,7 +70,7 @@ The ultimate goal here is to write readable code.  We often say things like "thi
 
 ---
 
-This post was based on [this post](https://tysondw.blogspot.com/2019/01/minimal-and-intuitive-type-parameter.html) to my previous blog on 2019-01-20.  This post is mostly the same except for [the section about F#](/2021-mm-dd_function_composition_syntax#f), which is new.
+This post was based on [this post](https://tysondw.blogspot.com/2019/01/syntax-for-composition-of-functions.html) to my previous blog on 2019-01-20.  This post is mostly the same except for [the section about F#](/2021-mm-dd_function_composition_syntax#f), which is new.
 
 
 > :SeeTypo$
