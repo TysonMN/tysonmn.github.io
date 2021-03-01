@@ -353,6 +353,14 @@ The output differs slightly.  In C#, clearly `Waiting` is never printed after `C
 
 I did not know that F# considers stopping asynchronous computations after each loop iteration until I was part way through writing this post.  I looked but failed to find this behavior described in documentation.  Please share a link in a comment if you know of such documentation.
 
+> Added 2021-03-01
+> 
+> I still haven't found any documentation on the matter, but I have statically verified this behavior (that I experienced at runtime).  A `while` loop inside an `async` computational expression becomes a call to to [this `While` method](https://github.com/dotnet/fsharp/blob/89ad3715a2a3502090218916b698dcf0fcbd59c9/src/fsharp/FSharp.Core/async.fs#L1068),
+> - which calls [`CreateWhileAsync`](https://github.com/dotnet/fsharp/blob/89ad3715a2a3502090218916b698dcf0fcbd59c9/src/fsharp/FSharp.Core/async.fs#L591),
+> - which calls [`CreateBindAsync`](https://github.com/dotnet/fsharp/blob/89ad3715a2a3502090218916b698dcf0fcbd59c9/src/fsharp/FSharp.Core/async.fs#L525),
+> - which calls [`Bind`](https://github.com/dotnet/fsharp/blob/89ad3715a2a3502090218916b698dcf0fcbd59c9/src/fsharp/FSharp.Core/async.fs#L461),
+> - which [checks if the `CancellationToken` was cancelled](https://github.com/dotnet/fsharp/blob/89ad3715a2a3502090218916b698dcf0fcbd59c9/src/fsharp/FSharp.Core/async.fs#L462-L465).
+
 If the call to `CancellationTokenSource.Cancel` is removed, then this is the output in both languages.
 
 > :Center
