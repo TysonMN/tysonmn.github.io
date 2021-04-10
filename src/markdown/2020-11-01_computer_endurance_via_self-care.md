@@ -126,11 +126,9 @@ I have always enjoyed getting a massage.  I used to get one about every three ye
 
 When wrist pain was at its worst in late 2018, I went to play basketball in the hopes that this exercise would make it feel better.  The opposite happened.  Unfortunately, the ball hit the middle finger on my right hand and gave me the worst jammed finger of my life.
 
-The next day I called [Essentially Massage](https://www.essentiallymassage.com/) and booked the earliest available appointment.  I had been considering them for a while.  Their massage therapists use therapeutic massage to treat both traumatic injuries (like a jammed finger) and chronic injuries (like my wrist pain from many years of heavy computer use).
+The next day I called [Essentially Massage](https://www.essentiallymassage.com) and booked the earliest available appointment.  I had been considering them for a while.  Their massage therapists use therapeutic massage to treat both traumatic injuries (like a jammed finger) and chronic injuries (like my wrist pain from many years of heavy computer use).
 
-I started out with an hour-long session every three weeks.  When I started to feel better, we reduced the frequency to every four weeks.  Eventually I stopped going regularly, and I suffered for it.  My wrist always felt great for a few weeks after a massage.  During the long stretches without a massage, I now knew what I was missing and how good I could feel.
-
-I still get therapeutic massages but only for special occasions since I have found a more cost-effective solution to keep my wrist feeling great.
+I received great care from Essentially Massage.  We started out with an hour-long session every three weeks.  When I started to feel better, we reduced the frequency to every four weeks.  I know their massages where helping because the pain returned after I took a couple months off.  Looking back, it is now hard for me to believe that I used to think that I could handle moderate injuries or chronic pain by myself instead of having experts like these put my body back into the proper working order.  I highly recommend that everyone give therapeutic massage a try.
 
 ## Therapeutic ultrasound
 
@@ -140,7 +138,7 @@ I had weekly therapeutic ultrasound appointments for about six weeks.  I decided
 
 At the first session, the chiropractor treated my arm just below my elbow where the tendons from my fingers connect.  My wrist hurt much worse than normal for the rest of the day.  The second treatment was on my arm close to my wrist, but I am not sure it helped.  After that, we decided to only treat near my elbow.
 
-We stopped treatments after six weeks.  Not only did my wrist feel much better, but we also think the exercise I was assigned helped keep my wrist functioning well.
+After six weeks, my wrist felt much better, so we stopped treatments.  This allowed me to determine if the exercise I was assigned can keep my wrist functioning well all by itself.
 
 ## Wrist Exercise
 
