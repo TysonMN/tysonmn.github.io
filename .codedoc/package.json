@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@codedoc/coding-blog-plugin": "^0.1.11",
-    "@codedoc/core": "^0.2.23"
+    "@codedoc/core": "^0.2.24"
   },
   "devDependencies": {
     "source-map-loader": "^1.0.0"
