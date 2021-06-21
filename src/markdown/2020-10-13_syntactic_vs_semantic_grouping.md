@@ -105,7 +105,7 @@ I feel like naming these grouping types syntactic and semantic has helped me bet
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[naming](:Tag) [software development](:Tag)
+[Suggestion](:Tag) [naming](:Tag) [software development](:Tag)
 
 # Comments
 

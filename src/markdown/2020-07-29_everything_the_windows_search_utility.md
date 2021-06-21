@@ -54,7 +54,7 @@ When searching a large amount of files and folders in Windows, use the search ut
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[DevOps](:Tag) [Windows](:Tag)
+[Suggestion](:Tag) [DevOps](:Tag) [Windows](:Tag)
 
 # Comments
 

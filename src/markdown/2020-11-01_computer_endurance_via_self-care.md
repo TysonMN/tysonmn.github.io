@@ -170,7 +170,7 @@ I hope knowing everything that I have tried gives you ideas and motivation to im
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[health](:Tag) [DevOps](:Tag)
+[Suggestion](:Tag) [health](:Tag) [DevOps](:Tag)
 
 # Comments
 

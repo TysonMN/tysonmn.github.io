@@ -55,7 +55,7 @@ There are great resources for C# programmers to learn about functional programmi
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[functional programming](:Tag) [CSharp](:Tag)
+[Recommendation](:Tag) [functional programming](:Tag) [CSharp](:Tag)
 
 # Comments
 

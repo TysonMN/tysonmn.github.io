@@ -225,7 +225,7 @@ The code in this post is available [here](https://github.com/TysonMN/tyson-willi
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[functional programming](:Tag) [CSharp](:Tag)
+[Suggestion](:Tag) [functional programming](:Tag) [CSharp](:Tag)
 
 # Comments
 
