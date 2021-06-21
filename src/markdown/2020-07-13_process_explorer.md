@@ -10,6 +10,10 @@
 
 _Use Process Explorer to find and kill processes with open file handles._
 
+> [warning](:Icon) **UPDATE**
+>
+> I have [changed my suggestion](/2021-06-21_lock_hunter) from [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) to [Lock Hunter](https://lockhunter.com).
+
 Deleting, moving, or renaming a file fails when a process has an open handle to it.  The worst is when I don't know what process has the open handle.  [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) helps solve this problem.
 
 # Restart computer
@@ -68,7 +72,7 @@ Follow these steps to kill an unknown process with an open file handle.
 
 The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/coding-blog-plugin/tags) is still being developed.  Eventually the tags will link somewhere.
 
-[DevOps](:Tag) [Windows](:Tag)
+[Suggestion](:Tag) [DevOps](:Tag) [Windows](:Tag)
 
 # Comments
 
