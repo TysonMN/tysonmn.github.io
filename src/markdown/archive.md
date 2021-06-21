@@ -4,6 +4,9 @@
 
 > :Collapse label=2021, default=open
 >
+> > :Collapse label=June, default=open
+> > - June 21, 2021 » [Lock Hunter](/2021-06-21_lock_hunter)
+>
 > > :Collapse label=January, default=open
 > > - January 30, 2021 » [Function composition syntax](/2021-01-30_function_composition_syntax)
 
