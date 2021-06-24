@@ -10,7 +10,7 @@
 
 _Use Lock Hunter to close open file handles._
 
-Deleting, moving, or renaming a file fails when a process has an open handle to it.  I [previously suggested](2020-07-13_process_explorer) using [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) to quickly close open file handles.  Now I suggest using [Lock Hunter](https://lockhunter.com) because it is simplier and faster.
+Deleting, moving, or renaming a file fails when a process has an open handle to it.  I [previously suggested](2020-07-13_process_explorer) using [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) to quickly close open file handles.  Now I suggest using [Lock Hunter](https://lockhunter.com) because it is simpler and faster.
 
 Process Explorer closes open file handles by killing the corresponding process.  Lock Hunter directly closes the open handles while leaving the process alive.
 
