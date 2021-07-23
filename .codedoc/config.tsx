@@ -44,7 +44,7 @@ export const config = /*#__PURE__*/configuration({
         ]
       }
     }),
-    googleAnalytics("UA-176781099-1")
+    googleAnalytics("G-N68CM042GN")
   ],
   markdown: {
     customComponents: {
