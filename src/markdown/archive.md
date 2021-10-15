@@ -4,6 +4,9 @@
 
 > :Collapse label=2021, default=open
 >
+> > :Collapse label=October, default=open
+> > - October 15, 2021 » [Pair programming is like driving with a navigator](/2021-10-15_pair_programming_driving_navigator)
+>
 > > :Collapse label=June, default=open
 > > - June 21, 2021 » [Lock Hunter](/2021-06-21_lock_hunter)
 >
