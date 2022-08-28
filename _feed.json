@@ -1,0 +1,196 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tyson Williams",
+    "home_page_url": "https://tysonwilliams.coding.blog",
+    "feed_url": "https://tysonwilliams.coding.blog/_feed.json",
+    "items": [
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-11_systematic_cleaning",
+            "content_html": "Systematic Cleaning ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-11_systematic_cleaning",
+            "title": "Systematic Cleaning",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-12_executable_project_first",
+            "content_html": "Lead with an Executable Project ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-12_executable_project_first",
+            "title": "Lead with an Executable Project",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-13_process_explorer",
+            "content_html": "Process Explorer ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-13_process_explorer",
+            "title": "Process Explorer",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-14_identity_as_as",
+            "content_html": "Identity as As ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-14_identity_as_as",
+            "title": "Identity as As",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-15_naming_is_impossibly_hard",
+            "content_html": "Naming is Impossibly Hard ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-15_naming_is_impossibly_hard",
+            "title": "Naming is Impossibly Hard",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-17_naming_optimization_problem",
+            "content_html": "Naming Optimization Problem ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-17_naming_optimization_problem",
+            "title": "Naming Optimization Problem",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-19_type_parameter_naming",
+            "content_html": "Type Parameter Naming ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-19_type_parameter_naming",
+            "title": "Type Parameter Naming",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-07-29_everything_the_windows_search_utility",
+            "content_html": "Everything: The Windows search utility ...",
+            "url": "https://tysonwilliams.coding.blog/2020-07-29_everything_the_windows_search_utility",
+            "title": "Everything: The Windows search utility",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-08-23_functional_programming_in_csharp",
+            "content_html": "Functional Programming in C# ...",
+            "url": "https://tysonwilliams.coding.blog/2020-08-23_functional_programming_in_csharp",
+            "title": "Functional Programming in C#",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-09-12_editorconfig",
+            "content_html": "EditorConfig ...",
+            "url": "https://tysonwilliams.coding.blog/2020-09-12_editorconfig",
+            "title": "EditorConfig",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-09-21_bottom_type_in_fsharp",
+            "content_html": "Bottom Type in F# ...",
+            "url": "https://tysonwilliams.coding.blog/2020-09-21_bottom_type_in_fsharp",
+            "title": "Bottom Type in F#",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-10-13_syntactic_vs_semantic_grouping",
+            "content_html": "Syntactic vs semantic grouping ...",
+            "url": "https://tysonwilliams.coding.blog/2020-10-13_syntactic_vs_semantic_grouping",
+            "title": "Syntactic vs semantic grouping",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-11-01_computer_endurance_via_self-care",
+            "content_html": "Computer endurance via self-care ...",
+            "url": "https://tysonwilliams.coding.blog/2020-11-01_computer_endurance_via_self-care",
+            "title": "Computer endurance via self-care",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2020-12-01_csharp_task_to_fsharp_async",
+            "content_html": "Converting asynchronous cancellation from C# to F# ...",
+            "url": "https://tysonwilliams.coding.blog/2020-12-01_csharp_task_to_fsharp_async",
+            "title": "Converting asynchronous cancellation from C# to F#",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2021-01-30_function_composition_syntax",
+            "content_html": "Function composition syntax ...",
+            "url": "https://tysonwilliams.coding.blog/2021-01-30_function_composition_syntax",
+            "title": "Function composition syntax",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2021-06-21_lock_hunter",
+            "content_html": "Lock Hunter ...",
+            "url": "https://tysonwilliams.coding.blog/2021-06-21_lock_hunter",
+            "title": "Lock Hunter",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        },
+        {
+            "id": "https://tysonwilliams.coding.blog/2021-10-15_pair_programming_driving_navigator",
+            "content_html": "Pair programming is like driving with a navigator ...",
+            "url": "https://tysonwilliams.coding.blog/2021-10-15_pair_programming_driving_navigator",
+            "title": "Pair programming is like driving with a navigator",
+            "image": "https://images.unsplash.com/photo-1598259464107-c64378c191ff?w=1993&h=950&fit=crop&crop=bottom",
+            "date_modified": "2022-08-28T13:28:43.000Z",
+            "date_published": "2022-08-28T13:28:43.000Z",
+            "author": {
+                "name": "Tyson Williams"
+            }
+        }
+    ]
+}
