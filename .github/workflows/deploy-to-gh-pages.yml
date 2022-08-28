@@ -19,6 +19,8 @@ jobs:
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
           # copy assets
+          mkdir dist/src
+          mkdir dist/src/assets
           cp -r src/assets/ dist/src/assets/
           # mark no jekyll
           touch dist/.nojekyll
