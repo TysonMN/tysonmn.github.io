@@ -18,7 +18,6 @@ export const config = /*#__PURE__*/configuration({
   },
   dest: {
     html: 'dist',
-    assets: 'dist',
     styles: 'dist/styles',
     bundle: 'dist/bundle',
   },
