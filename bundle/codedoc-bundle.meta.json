@@ -113,14 +113,14 @@
       "hash": "qPorlBx8JDGE3y/qIZhOCg=="
     },
     {
-      "name": "CollapseControl",
-      "filename": "/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "JRg5EhcGGup/AFJndPYXPw=="
-    },
-    {
       "name": "ToCPrevNext",
       "filename": "/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
       "hash": "/KCX5j9eEJPmgdUpvW6kvA=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "JRg5EhcGGup/AFJndPYXPw=="
     },
     {
       "name": "ArticleCard",

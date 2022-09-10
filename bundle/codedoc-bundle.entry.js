@@ -21,8 +21,8 @@ import { ToCToggle } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io
 import { DarkModeSwitch } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
 import { TabSelector } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
-import { CollapseControl } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { ToCPrevNext } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { CollapseControl } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { ArticleCard } from '/home/runner/work/tysonmn.github.io/tysonmn.github.io/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 
 const components = {
@@ -32,8 +32,8 @@ const components = {
   'V/Du0BUwcGsy+c6jWXdl8A==': DarkModeSwitch,
   'L6ry08rc32JxGJxF7I5qEA==': ConfigTransport,
   'qPorlBx8JDGE3y/qIZhOCg==': TabSelector,
-  'JRg5EhcGGup/AFJndPYXPw==': CollapseControl,
   '/KCX5j9eEJPmgdUpvW6kvA==': ToCPrevNext,
+  'JRg5EhcGGup/AFJndPYXPw==': CollapseControl,
   'O4C5syWfUK+wK/6iSNV0AQ==': ArticleCard
 };
 
