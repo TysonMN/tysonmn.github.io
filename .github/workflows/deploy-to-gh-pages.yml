@@ -23,6 +23,10 @@ jobs:
           mkdir dist/src
           mkdir dist/src/assets
           cp -r src/assets/ dist/src/
+          # move styles and bundle
+          mkdir dist/dist
+          cp -r dist/styles/ dist/dist/styles/
+          cp -r dist/bundle/ dist/dist/bundle/
           # mark no jekyll
           touch dist/.nojekyll
 
