@@ -18,8 +18,8 @@ export const config = /*#__PURE__*/configuration({
   },
   dest: {
     html: 'dist',
-    styles: 'dist/styles',
-    bundle: 'dist/bundle',
+    styles: 'styles',
+    bundle: 'bundle',
   },
   page: {
     title: {
