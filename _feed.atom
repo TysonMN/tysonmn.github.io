@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tysonwilliams.coding.blog</id>
     <title>Tyson Williams</title>
-    <updated>2022-09-10T15:12:51.960Z</updated>
+    <updated>2022-09-10T15:25:22.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tysonwilliams.coding.blog"/>
     <link rel="self" href="https://tysonwilliams.coding.blog/_feed.atom"/>
@@ -11,204 +11,204 @@
         <title type="html"><![CDATA[Systematic Cleaning]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-11_systematic_cleaning</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-11_systematic_cleaning"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Systematic Cleaning ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lead with an Executable Project]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-12_executable_project_first</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-12_executable_project_first"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Lead with an Executable Project ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Process Explorer]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-13_process_explorer</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-13_process_explorer"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Process Explorer ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Identity as As]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-14_identity_as_as</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-14_identity_as_as"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Identity as As ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Naming is Impossibly Hard]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-15_naming_is_impossibly_hard</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-15_naming_is_impossibly_hard"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Naming is Impossibly Hard ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Naming Optimization Problem]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-17_naming_optimization_problem</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-17_naming_optimization_problem"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Naming Optimization Problem ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Type Parameter Naming]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-19_type_parameter_naming</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-19_type_parameter_naming"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Type Parameter Naming ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Everything: The Windows search utility]]></title>
         <id>https://tysonwilliams.coding.blog/2020-07-29_everything_the_windows_search_utility</id>
         <link href="https://tysonwilliams.coding.blog/2020-07-29_everything_the_windows_search_utility"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Everything: The Windows search utility ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Functional Programming in C#]]></title>
         <id>https://tysonwilliams.coding.blog/2020-08-23_functional_programming_in_csharp</id>
         <link href="https://tysonwilliams.coding.blog/2020-08-23_functional_programming_in_csharp"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Functional Programming in C# ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[EditorConfig]]></title>
         <id>https://tysonwilliams.coding.blog/2020-09-12_editorconfig</id>
         <link href="https://tysonwilliams.coding.blog/2020-09-12_editorconfig"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[EditorConfig ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bottom Type in F#]]></title>
         <id>https://tysonwilliams.coding.blog/2020-09-21_bottom_type_in_fsharp</id>
         <link href="https://tysonwilliams.coding.blog/2020-09-21_bottom_type_in_fsharp"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Bottom Type in F# ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Syntactic vs semantic grouping]]></title>
         <id>https://tysonwilliams.coding.blog/2020-10-13_syntactic_vs_semantic_grouping</id>
         <link href="https://tysonwilliams.coding.blog/2020-10-13_syntactic_vs_semantic_grouping"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Syntactic vs semantic grouping ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Computer endurance via self-care]]></title>
         <id>https://tysonwilliams.coding.blog/2020-11-01_computer_endurance_via_self-care</id>
         <link href="https://tysonwilliams.coding.blog/2020-11-01_computer_endurance_via_self-care"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Computer endurance via self-care ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Converting asynchronous cancellation from C# to F#]]></title>
         <id>https://tysonwilliams.coding.blog/2020-12-01_csharp_task_to_fsharp_async</id>
         <link href="https://tysonwilliams.coding.blog/2020-12-01_csharp_task_to_fsharp_async"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Converting asynchronous cancellation from C# to F# ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Function composition syntax]]></title>
         <id>https://tysonwilliams.coding.blog/2021-01-30_function_composition_syntax</id>
         <link href="https://tysonwilliams.coding.blog/2021-01-30_function_composition_syntax"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Function composition syntax ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lock Hunter]]></title>
         <id>https://tysonwilliams.coding.blog/2021-06-21_lock_hunter</id>
         <link href="https://tysonwilliams.coding.blog/2021-06-21_lock_hunter"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Lock Hunter ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pair programming is like driving with a navigator]]></title>
         <id>https://tysonwilliams.coding.blog/2021-10-15_pair_programming_driving_navigator</id>
         <link href="https://tysonwilliams.coding.blog/2021-10-15_pair_programming_driving_navigator"/>
-        <updated>2022-09-10T14:59:18.000Z</updated>
+        <updated>2022-09-10T15:24:10.000Z</updated>
         <content type="html"><![CDATA[Pair programming is like driving with a navigator ...]]></content>
         <author>
-            <name>dependabot[bot]</name>
-            <email>49699333+dependabot[bot]@users.noreply.github.com</email>
+            <name>Tyson Williams</name>
+            <email>tyson.d.w@gmail.com</email>
         </author>
-        <published>2022-09-10T14:59:18.000Z</published>
+        <published>2022-09-10T15:24:10.000Z</published>
     </entry>
 </feed>
