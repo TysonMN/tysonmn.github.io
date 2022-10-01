@@ -2,6 +2,11 @@
 >
 > Archive
 
+> :Collapse label=2022, default=open
+>
+> > :Collapse label=October, default=open
+> > - October 01, 2022 » [Focused Web Browsing](/2022-10-01_focused_web_browsing)
+
 > :Collapse label=2021, default=open
 >
 > > :Collapse label=October, default=open
